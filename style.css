@@ -1,0 +1,52 @@
+.body{
+    background-color: rgb(0, 0, 0);
+    flex-wrap: wrap;
+    width: fit-content;
+    margin-left: 16%;
+}
+.C{
+    color: rgb(235, 26, 26);
+}
+.o{
+    color: rgb(0, 55, 255);
+}
+.m{
+    color: rgb(0, 255, 0);
+}
+.e{
+    color:yellow ;
+}
+.o2{
+    color:rgb(20, 20, 196);
+}
+.n{
+    color:darkgoldenrod ;
+}
+.div{
+    font-size: 120px;
+    margin-top: -15%;
+}
+.p{
+    margin-top: -15%;
+    font-size: 90px; 
+}
+.login{
+    text-decoration: none;
+    color: yellow;
+    background-color: green;
+}
+.now{
+    color: green;   
+    background-color: yellow;
+}
+.a{
+    text-decoration: none;
+    border: 1px solid yellow;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: gray;
+}
+.para{
+    color: yellowgreen;
+    font-size: 40px;
+}

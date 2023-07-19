@@ -1,0 +1,71 @@
+.body{
+    background-color: rgb(0, 0, 0);
+    /* flex-wrap: wrap; */
+    width: fit-content;
+    margin-left: 35%;
+}
+.div{
+    font-size: 50px;
+}
+.C{
+    color: rgb(235, 26, 26);
+}
+.o{
+    color: rgb(0, 55, 255);
+}
+.m{
+    color: rgb(0, 255, 0);
+}
+.e{
+    color:yellow ;
+}
+.o2{
+    color:rgb(20, 20, 196);
+}
+.n{
+    color:darkgoldenrod ;
+}
+.child{
+    background-color: rgb(39, 39, 39);
+    border-radius: 15px;
+    padding: 20px ;
+}
+.email{
+    height: 5px;
+    width: 250px;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 17px;
+    color: rgb(89, 255, 0);
+    background-color: black;
+}
+.password{
+    height: 5px;
+    width: 250px;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 17px;
+    color: rgb(89, 255, 0);
+    background-color: black;
+}
+.para{
+    color: yellow;
+    font-size: 20px;
+}
+.submit{
+    color: green;
+    background-color: yellow;
+    font-size: 40px;
+    border-radius: 10px;
+    border: 0px;
+}
+.sign{
+    color: black;
+    background-color: green;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 10px;
+    border: 0px;
+    /* margin-top: 400px; */
+}
